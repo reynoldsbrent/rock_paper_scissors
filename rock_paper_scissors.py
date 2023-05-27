@@ -10,4 +10,3 @@ def greeting():
 choices = get_choices()
 print(choices)
 
-dict = {"name": "Brent", "color": "blue"}
